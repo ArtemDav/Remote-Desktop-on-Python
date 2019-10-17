@@ -5,11 +5,9 @@ It is planned to add various functions such as: mouse control, keyboard control,
 # version 0.1.2
 > What's new?
 >> Added continuous screen processing and sending it to the server
+
 > What is planned in the next versions? 
->> Adding a smoother picture.
-> Цитата (уровень 1)    
->>> Продолжение цитаты (уровень 1)  
-> Продолжение цитаты (уровень 1)    
+>> Adding a smoother picture. 
 # Screens
 CLIENT:
 
