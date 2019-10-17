@@ -7,6 +7,13 @@ It is planned to add various functions such as: mouse control, keyboard control,
 >> Added continuous screen processing and sending it to the server
 > What is planned in the next versions? 
 >> Adding a smoother picture.
+> Цитата (уровень 1)    
+> > Вложенная цитата (уровень 2)    
+> > > Вложенная цитата (уровень 3)    
+
+> > Продолжение цитаты (уровень 2)    
+
+> Продолжение цитаты (уровень 1)    
 # Screens
 CLIENT:
 
