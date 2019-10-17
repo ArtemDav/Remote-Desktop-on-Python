@@ -8,7 +8,7 @@ It is planned to add various functions such as: mouse control, keyboard control,
 > What is planned in the next versions? 
 >> Adding a smoother picture.
 > Цитата (уровень 1)    
-> Продолжение цитаты (уровень 1)  
+>>> Продолжение цитаты (уровень 1)  
 > Продолжение цитаты (уровень 1)    
 # Screens
 CLIENT:
